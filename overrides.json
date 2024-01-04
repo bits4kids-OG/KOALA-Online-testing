@@ -4,6 +4,9 @@
     },
     "@jupyterlite/webrtc-docprovider:plugin": {
         "disabled": false,
-        "username": "Eingabe"
+        "username": "Eingabe",
+        "signalingUrls": [
+          "ws://localhost:5555"
+        ]
       }
   }
