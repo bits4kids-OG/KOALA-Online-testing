@@ -3,10 +3,6 @@
       "locale": "de_DE"
     },
     "@jupyterlite/webrtc-docprovider:plugin": {
-        "disabled": true,
-        "username": "Eingabe",
-        "signalingUrls": [
-          ""
-        ]
+        "username": "Eingabe"
       }
   }
