@@ -1,5 +1,9 @@
 {
     "@jupyterlab/translation-extension:plugin": {
       "locale": "de_DE"
-    }
+    },
+    "@jupyterlite/webrtc-docprovider:plugin": {
+        "disabled": false,
+        "username": "Eingabe"
+      }
   }
